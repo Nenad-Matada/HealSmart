@@ -50,7 +50,7 @@ npm start
 Your frontend will run at 👉 http://localhost:3000
 
 
-**🎯 How It Works**
+***🎯 How It Works***
 
 Users enter symptoms or queries in the frontend.
 
